@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Udhaar Book**
 
-- 🌱 I’m currently learning **Selenium, Python, Appium, TestNg**
+- 🌱 Skilled in **Playwright, Postman, Jira, Cypress**
 
 - 📝 I regularly write articles on [https://medium.com/@asfandtariq90](https://medium.com/@asfandtariq90)
 
@@ -19,7 +19,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/asfand-tariq/](https://www.linkedin.com/in/asfand-tariq/)
 
-- ⚡ Fun fact **I'm a gym freak and love gaming.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
