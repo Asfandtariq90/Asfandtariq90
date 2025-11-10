@@ -1,4 +1,3 @@
-[![MasterHead](https://www.indiumsoftware.com/wp-content/uploads/2022/08/142-Software-Testing-Techniques-The-Definitive-Guide-2021-Update.jpg)](https://asfandtariq90.io)
 <h1 align="center">Hi 👋, I'm Asfand Tariq</h1>
 <h3 align="center">Passionate about ensuring software reliability and functionality through comprehensive testing and quality assurance practices.</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/1*kEiJQRyscYoR7Ytg1lrLDg.gif">
