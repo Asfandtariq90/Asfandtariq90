@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **asfandtariq90@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/asfand-tariq/](https://www.linkedin.com/in/asfand-tariq/)
+- 📄 Know about my experiences [(https://www.linkedin.com/in/asfand-tariqch/)]
 
 
 <h3 align="left">Connect with me:</h3>
